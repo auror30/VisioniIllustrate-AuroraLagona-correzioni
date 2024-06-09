@@ -1,0 +1,426 @@
+body { 
+background-color:black;
+font-family: sans-serif;
+margin:auto;
+}
+
+img {
+max-width:100%;
+margin:100px;
+margin-bottom:auto;
+display:flex;
+transform: scale(1.3);
+justify-content:space-around;
+}
+
+header {
+max-width: 2000px;
+background-color:black;
+font-size: 15px;
+margin: 0px;
+display: flex;
+justify-content: space-between;
+}
+
+header li a {
+margin: 20px;
+list-style: none;
+display: flex;
+font-weight: bold;
+text-transform: uppercase;
+}
+    
+header nav ul {
+margin: 10px;
+padding: 10px;
+list-style: none;
+display: flex;
+gap: 25px;
+}
+        
+
+header a {
+text-decoration: none;
+color: white ;
+
+}
+
+section.info {
+max-width: 70%;
+text-decoration: none;
+color: white;
+justify-content: center;
+margin: 120px;
+font-size: 50px;
+padding: 50px;
+ }
+
+section.info h5 {
+text-decoration: none;
+color:white;
+   
+}
+
+section.info h1 {
+text-decoration: none;
+color:#A7AFE6;
+       
+}
+
+section.rettangolo img {
+ max-width: 2000px;   
+}
+
+section.inaugurazione h2 {
+max-width: 20%;
+text-decoration: none;
+color: white;
+justify-content: center;
+margin: 170px;
+font-size: 50px;
+font-weight: bolder;
+
+}
+
+section.inaugurazione p {
+color: white;
+margin: 140px;
+font-size: 25px;
+margin: 200px;
+font-weight:lighter;
+}
+
+section.testo h2 {
+max-width: 20%;
+text-decoration: none;
+color: white;
+justify-content: center;
+margin: 170px;
+font-size: 50px;
+font-weight: bolder;
+}
+
+section.card {
+max-width: 160px;
+margin: 140px;
+margin-right: 150px;
+padding: 60px;
+display:flex;
+justify-content: space-between;
+gap: 240px;
+}
+
+section.card1 {
+max-width: 160px;
+margin: 140px;
+margin-right: 150px;
+padding: 60px;
+display:flex;
+justify-content: space-between;
+gap: 240px;
+}
+
+section.card2 {
+max-width: 160px;
+margin: 140px;
+margin-right: 150px;
+padding: 60px;
+display:flex;
+justify-content: space-between;
+gap: 240px;
+}
+
+footer {
+max-width: 2000px;
+background-color:#A7AFE6;
+font-weight:lighter;
+list-style:none;
+font-size: 25px;
+margin: 0px;
+display:flex;
+justify-content: center;
+}
+
+footer li a {
+color: black;
+font-size: 20px;
+margin: 15px;
+padding: 35px;
+list-style: none;
+display: flex;
+font-weight:bolder;
+text-decoration: none;
+justify-content: center;
+
+}
+
+section.artisti h2 {
+max-width: 20%;
+text-decoration: none;
+color: white;
+justify-content: center;
+margin: 270px;
+font-size: 50px;
+font-weight: bolder;
+    
+}
+
+section.mostra h2 {
+max-width: 20%;
+text-decoration: none;
+color: white;
+justify-content: center;
+margin: 200px;
+font-size: 50px;
+font-weight: bolder;
+        
+}
+
+section.mostra p {
+color: white;
+margin: 100px;
+font-size: 25px;
+margin: 200px;
+font-weight:lighter;
+}
+
+section.opere1 {
+max-width:98%;
+margin: 0px;
+display:flex;
+justify-content:center;
+
+}
+
+section.infoutili h2 {
+max-width: 60%;
+text-decoration: none;
+color: white;
+justify-content: center;
+margin: 200px;
+font-size: 50px;
+font-weight: bolder;
+            
+}
+
+section.laboratorio a h1 {
+max-width: 60%;
+color:#A7AFE6;
+justify-content:center;
+margin: 200px;
+font-size: 50px;
+font-weight: bolder;
+text-decoration: none;
+list-style: none;
+}
+
+section.laboratorio p {
+color: white;
+margin: 100px;
+font-size: 25px;
+margin: 200px;
+font-weight:lighter;
+}
+
+section.utili h2 {
+max-width: 60%;
+text-decoration: none;
+color: white;
+justify-content: center;
+margin: 200px;
+font-size: 50px;
+font-weight: bolder;
+            
+}
+
+section.img2 {
+max-width:70%;
+margin: 50px;
+display:flex;
+justify-content:center;
+    
+}
+
+section.informazioni h3 {
+max-width: 60%;
+color:white;
+justify-content:center;
+margin: 200px;
+font-size: 40px;
+font-weight:bolder;
+text-decoration: none;
+list-style: none;
+}
+
+body.cullien { 
+background-color:#A7AFE6;
+font-family: sans-serif;
+ margin: 0;
+}
+
+section.cullien h2 {
+max-width: 20%;
+text-decoration: none;
+color: black;
+justify-content: center;
+margin: 170px;
+font-size: 50px;
+font-weight: bolder;
+}
+
+section.cullien p {
+color:black;
+margin:100px;
+font-size: 25px;
+margin: 200px;
+font-weight:lighter;
+}
+
+footer.cullien {
+max-width: 2000px;
+background-color:black;
+font-weight:lighter;
+list-style:none;
+font-size: 25px;
+margin: 0px;
+display:flex;
+justify-content: center;
+}
+
+footer.cullien li a {
+color:white;
+font-size: 20px;
+margin: 15px;
+padding: 35px;
+list-style: none;
+display: flex;
+font-weight:bolder;
+text-decoration: none;
+justify-content: center;
+}
+
+section.operecullien {
+max-width:93%;
+margin: 0px;
+display:flex;
+justify-content:center;
+padding: 50px;
+}
+
+body.paukova { 
+background-color:#A7AFE6;
+font-family: sans-serif;
+margin: 0;
+}
+    
+section.paukova h2 {
+max-width: 30%;
+text-decoration: none;
+color: black;
+justify-content: center;
+margin: 170px;
+font-size: 50px;
+font-weight: bolder;
+}
+    
+section.paukova p {
+color:black;
+margin:100px;
+font-size: 25px;
+margin:200px;
+font-weight:lighter;
+}
+    
+footer.paukova {
+max-width: 2000px;
+background-color:black;
+font-weight:lighter;
+list-style:none;
+font-size: 25px;
+margin: 0px;
+display:flex;
+justify-content: center;
+}
+    
+footer.paukova li a {
+color:white;
+font-size: 20px;
+margin: 15px;
+padding: 35px;
+list-style: none;
+display: flex;
+font-weight:bolder;
+text-decoration: none;
+justify-content: center;
+}
+    
+section.operepaukova {
+max-width:93%;
+margin: 0px;
+display:flex;
+justify-content:center;
+padding: 50px;
+}
+
+body.blow { 
+    background-color:#A7AFE6;
+    font-family: sans-serif;
+    margin: 0;
+    }
+        
+    section.blow h2 {
+    max-width: 20%;
+    text-decoration: none;
+    color: black;
+    justify-content: center;
+    margin: 170px;
+    font-size: 50px;
+    font-weight: bolder;
+    }
+        
+    section.blow p {
+    color:black;
+    margin:100px;
+    font-size: 25px;
+    margin:200px;
+    font-weight:lighter;
+    }
+        
+    footer.blow {
+    max-width: 2000px;
+    background-color:black;
+    font-weight:lighter;
+    list-style:none;
+    font-size: 25px;
+    margin: 0px;
+    display:flex;
+    justify-content: center;
+    }
+        
+    footer.blow li a {
+    color:white;
+    font-size: 20px;
+    margin: 15px;
+    padding: 35px;
+    list-style: none;
+    display: flex;
+    font-weight:bolder;
+    text-decoration: none;
+    justify-content: center;
+    }
+        
+    section.opereblow {
+    max-width:93%;
+    margin: 0px;
+    display:flex;
+    justify-content:center;
+    padding: 50px;
+    }
+    
+    
+
+
+
+
+
+
